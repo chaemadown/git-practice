@@ -2,7 +2,7 @@ team : C
 
 manager: manager_c
 
-coach: conflict2_dongguk_c
+coach: coach_c
 
 members:
 - m1
